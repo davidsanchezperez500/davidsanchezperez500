@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Mercadona**
+- 🔭 I’m currently working on **Encora**
 
 - 🌱 I’m currently learning **Java, Groovy, Python**
 
